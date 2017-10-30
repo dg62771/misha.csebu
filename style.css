@@ -2198,3 +2198,6 @@ pre{display:block;padding:9.5px;margin:0 0 10px;font-size:13px;line-height:1.428
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
+.imgwrapper {
+   width: 75%;
+}
