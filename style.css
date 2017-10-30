@@ -2201,3 +2201,6 @@ pre{display:block;padding:9.5px;margin:0 0 10px;font-size:13px;line-height:1.428
 .imgwrapper {
    width: 75%;
 }
+.wrapper img {
+    max-width: 280px;
+}
